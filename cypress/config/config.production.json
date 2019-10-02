@@ -1,0 +1,10 @@
+{
+    "baseUrl": "http://adactin.com/HotelApp/",
+    "screenshotsFolder": "cypress/screenshots",
+    "env": {
+        "USERNAME": "cypressuser01",
+        "PASSWORD": "cypress",
+        "FULL_NAME": "cypress",
+        "EMAIL_ADDRESS": "spammypants@protonmail.com"
+    }
+}
